@@ -1,4 +1,4 @@
-import Post from "./post"
+import Post from "@components/post"
 import json from "../assets/data.json"
 import xml from "../assets/data.xml"
 import webpackScheme from "../assets/webpack.png"
