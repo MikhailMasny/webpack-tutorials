@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding-top: 32px;
+    min-width: 1024px;
+    margin: 0 auto;
+}
