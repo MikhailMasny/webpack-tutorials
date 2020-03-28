@@ -1,0 +1,28 @@
+{
+  "name": "webpack-tutorials",
+  "version": "1.0.0",
+  "description": "Webpack Tutorials for GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailMasny/webpack-tutorials.git"
+  },
+  "keywords": [
+    "webpack",
+    "javascript",
+    "js"
+  ],
+  "author": "Mikhail M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhailMasny/webpack-tutorials/issues"
+  },
+  "homepage": "https://github.com/MikhailMasny/webpack-tutorials#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
