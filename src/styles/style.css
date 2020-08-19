@@ -2,32 +2,41 @@
 @import "roboto.css";
 
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .container {
-    padding-top: 32px;
-    min-width: 1024px;
-    margin: 0 auto;
+  padding-top: 32px;
+  min-width: 1024px;
+  margin: 0 auto;
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 hr {
-    margin: 5px auto;
+  margin: 5px auto;
 }
 
 .schema {
-    background-image: url("../assets/webpack.png");
-    background-size: cover;
-    margin: 0 auto;
-    width: 785px;
-    height: 272px;
+  background-image: url("../assets/webpack.png");
+  background-size: cover;
+  margin: 0 auto;
+  width: 785px;
+  height: 272px;
+}
+
+.webpack-img {
+  width: 200px;
+  height: 200px;
+}
+
+.button {
+  background: red;
 }
